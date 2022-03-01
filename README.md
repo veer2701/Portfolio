@@ -11,7 +11,7 @@ Training and workshops (start with data analysis, how to answer questions with d
 Presentations (storytelling, how to present data, how do other businesses use data?)
 
 Rates:
-Data analysis, data analytics en visualisation projects: $800 per day
-Presentations, training and workshops starting from $500 (max 4 hours)
-Full-day training starting from $1000
+Data analysis, data analytics en visualisation projects: $800 per day.
+Presentations, training and workshops starting from $500 (max 4 hours).
+Full-day training starting from $1000.
 Rates are excluding VAT.
